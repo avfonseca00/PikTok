@@ -1,0 +1,11 @@
+{
+  "name": "piktok",
+  "version": "1.0.0",
+  "description": "TikTok clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VillaDev",
+  "license": "ISC"
+}
