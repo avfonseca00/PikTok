@@ -3,6 +3,7 @@
 # dependencies
 node_modules
 /.pnp
+/public/President_Donald_J_Trump.mp4
 .pnp.js
 
 # testing
